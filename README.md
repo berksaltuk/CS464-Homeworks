@@ -1,2 +1,2 @@
 # CS464-Homeworks
-Bilkent Introduction to Machine Learning Course Project
+Bilkent Introduction to Machine Learning Course Homeworks
